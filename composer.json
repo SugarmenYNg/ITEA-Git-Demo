@@ -1,0 +1,15 @@
+{
+    "name": "yuriy/gitdemo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yuriy tsukrenko",
+            "email": "sugarmenyn@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "str/str": "^1.0",
+        "zendframework/zend-uri": "^2.6"
+    }
+}
